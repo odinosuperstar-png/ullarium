@@ -24,6 +24,7 @@
 
 | | |
 |---|---|
+| **Sito Web** | https://ullarium.xyz
 | **Ticker** | `ULL` (8 decimali) |
 | **Consenso** | Proof of Work SHA-256d, vince la catena con più lavoro cumulato |
 | **Tempo di blocco** | 3 minuti (difficoltà LWMA su 60 blocchi: si adegua da sola all'hashrate) |
